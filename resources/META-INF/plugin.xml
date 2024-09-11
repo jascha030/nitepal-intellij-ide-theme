@@ -32,5 +32,8 @@
     <extensions defaultExtensionNs="com.intellij">
         <bundledColorScheme id="Nitepal" path="/colorSchemes/Nitepal" />
         <themeProvider id="Nitepal" path="/theme/nitepal.theme.json" targetUi="new"/>
+
+        <bundledColorScheme id="Litepal" path="/colorSchemes/Litepal" />
+        <themeProvider id="Litepal" path="/theme/litepal.theme.json" targetUi="new"/>
     </extensions>
 </idea-plugin>
