@@ -30,6 +30,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="nitepal" path="/theme/nitepal.theme.json"/>
+        <bundledColorScheme id="Nitepal" path="/colorSchemes/Nitepal" />
+        <themeProvider id="Nitepal" path="/theme/nitepal.theme.json" targetUi="new"/>
     </extensions>
 </idea-plugin>

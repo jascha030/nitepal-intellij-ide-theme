@@ -1,7 +1,7 @@
 {
   "name": "Nitepal",
   "author": "Jascha030",
-  "editorScheme": "/theme/Nitepal.xml",
+  "editorScheme": "/colorSchemes/Nitepal.xml",
   "dark": true,
   "colors": {
     "primaryWhite": "#969ac9",
